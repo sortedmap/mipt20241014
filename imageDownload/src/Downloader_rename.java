@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-class Downloader {
+class Downloader_rename {
 
     public static void main(String[] args) throws FileNotFoundException {
         Downloader dowloader = new Downloader();
